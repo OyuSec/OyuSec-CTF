@@ -1,4 +1,4 @@
-Энгийн бүхэн сайхан
+Энгийн бүхэн сайхан [download](https://github.com/oyusec/OyuSec-CTF/tree/master/Cryptography/Baby-1)
 
 ```python
 from itertools import cycle
