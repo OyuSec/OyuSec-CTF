@@ -1,5 +1,3 @@
-> Old school right ?
+Манай өвөөгийн өвөө ийм захидал үлдээсэн байх юм.
 
-**blh{j4ez1aT_l0h}**
-
-- `ByamB4`
+> blhfrp{j4ez1aT_l0h}
