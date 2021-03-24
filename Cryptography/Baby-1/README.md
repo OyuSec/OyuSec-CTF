@@ -1,4 +1,4 @@
-Энгийн бүхэн сайхан [download](https://github.com/oyusec/OyuSec-CTF/tree/master/Cryptography/Baby-1)
+Манай өвөөгийн өвөө ийм захидал үлдээсэн байх юм.
 
 ```python
 from itertools import cycle
@@ -13,6 +13,4 @@ def enc(m):
 
 with open('enc.txt', 'w') as f:
     f.write(enc(flag))
-```
-
-`- ByamB4`
+``
