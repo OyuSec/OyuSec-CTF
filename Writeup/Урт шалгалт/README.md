@@ -1,5 +1,5 @@
 ### Challenge introduction
-So my [challenge](https://github.com/ByamB4/cybertalent-internship/blob/main/challenge) is reversing elf file.
+So my [challenge](https://github.com/oyusec/OyuSec-CTF/blob/master/Writeup/%D0%A3%D1%80%D1%82%20%D1%88%D0%B0%D0%BB%D0%B3%D0%B0%D0%BB%D1%82/challenge) is reversing elf file.
 * random number with seed
 * statically linked binary
 * c++ for harder to read
